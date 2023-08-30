@@ -21,3 +21,7 @@ Setup
 4. Web Server: Host the project on a web server with PHP support (e.g., Apache or Nginx).
 
 5. Access: Navigate to the project's URL in your web browser to start using the contact management system.
+
+Testing
+
+https://github.com/DavidNath4/CRUD-Contact-Management-PHP/assets/73566173/a96a63a3-8b5d-4dd5-91ac-c42f8d3eb52e
